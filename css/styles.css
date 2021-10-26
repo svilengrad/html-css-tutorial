@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(211, 178, 178);
+}
+.special {
+    margin-left: 30px;
+}
+#special_id {
+    color: pink;
+}
+div {
+    text-align: center;
+}
